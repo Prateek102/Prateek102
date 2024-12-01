@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21811
-Fork on GitHub
-6942
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">A passionate Mern stack developer!</h3>
 
